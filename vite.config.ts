@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/fed25-inl-budget-app/',
+    base: '/fed25d-inl-budget-app/',
 });
